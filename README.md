@@ -11,8 +11,10 @@ This repo contains the files and documentation for a custom USB Hub PCB I create
 The schematic for the USB Hub is included in the repository as a PDF, feel free to check those out and use them :)
 
 
-## Pictures :O
+## Pictures
+### The 3D View
+![Pictures](3dimg.png)
 
-![USB Hub Pic-1](Screenshot 2024-08-11 152044.png)
-![USB Hub Pic-2](Screenshot 2024-08-11 152625.png)
+### The 2D View
+![Pictues](2dimg.png)
 
