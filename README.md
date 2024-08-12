@@ -18,3 +18,6 @@ The schematic for the USB Hub is included in the repository as a PDF, feel free 
 ### The 2D View
 ![Pictues](2dimg.png)
 
+## Update
+I'm currently adding Type C support, watch out for that!
+
